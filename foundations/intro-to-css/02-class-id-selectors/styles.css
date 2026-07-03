@@ -1,0 +1,19 @@
+.paragraphs {
+  background: #ff58db;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.unique {
+  font-size: 24px;
+}
+
+#div-01 {
+  color: blue;
+  font-size: 36px;
+}
+
+#div-02 {
+  background-color: #58ec7d;
+  font-size: 24px;
+  font-weight: bold;
+}
